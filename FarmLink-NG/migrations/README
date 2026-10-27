@@ -1,0 +1,1 @@
+Create reviewed schema revisions with `alembic revision --autogenerate -m 'describe change'`, inspect the generated migration, then run `alembic upgrade head`. Local bootstrap uses `python -m farmlink.cli init-db`.\n
